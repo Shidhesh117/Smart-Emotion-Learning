@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Forge",
+  "description": "An adaptive, gamified learning platform that detects student emotions to customize lessons, with access to engineering PDFs, YouTube lessons, and interactive games.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
